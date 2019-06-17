@@ -1,5 +1,5 @@
-# factor-two-integers
-C-program to factor two integers
+# factor-integers
+C-program to factor integers
 
 Input the integer when prompted.
 Program prints the factors.
